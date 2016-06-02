@@ -1,0 +1,27 @@
+
+<html lang=en>
+ <head>
+  <style>
+    body {
+        background: gray }
+    section {
+        background: blue;
+        color: white;
+        border-radius: 1em;
+        padding: 1em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) }
+  </style>
+
+ <body>
+  <section>
+   <h1>Nicely centered</h1>
+
+   <p>This block is vertically centered.
+
+   <p>Horizontally, too, if the window is wide enough.
+   <img  src="home.png" alt="house" width="200" height="200" >
+  </section>
